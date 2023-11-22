@@ -14,6 +14,6 @@ exp://exp.host/@ron3469/MyGoals-app?release-channel=default
 
 ![Home2](https://github.com/Souvik3469/MyGoals/blob/main/assets/home2.png)
 
-![Home3](https://github.com/Souvik3469/MyGoals/blob/main/assets/home3.jpg)
+![Home3](https://github.com/Souvik3469/MyGoals/blob/main/assets/home4.jpg)
 
-![Home4](https://github.com/Souvik3469/MyGoals/blob/main/assets/home4.jpg)
+![Home4](https://github.com/Souvik3469/MyGoals/blob/main/assets/home3.jpg)
